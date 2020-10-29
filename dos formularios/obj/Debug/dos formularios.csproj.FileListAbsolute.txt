@@ -1,0 +1,26 @@
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\dos formularios.exe.config
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\dos formularios.exe
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\dos formularios.pdb
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\MySql.Data.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\Google.Protobuf.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\Zstandard.Net.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\Renci.SshNet.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\System.Memory.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\System.Buffers.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\bin\Debug\MySql.Data.xml
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos formularios.csprojAssemblyReference.cache
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos formularios.exe.config
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos_formularios.Form1.resources
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos_formularios.Properties.Resources.resources
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos formularios.csproj.GenerateResource.cache
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos formularios.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos formularios.csproj.CopyComplete
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos formularios.exe
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos formularios.pdb
+C:\Users\RICARDO\source\repos\dos formularios\dos formularios\obj\Debug\dos_formularios.Form2.resources
